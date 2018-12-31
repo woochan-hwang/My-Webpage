@@ -1,22 +1,22 @@
-- title: Halve Jekyll Theme
+- title: ReST. <br /> Let radiologists take a rest from labeling
+  url: https://arxiv.org/abs/1811.08840
+  image: https://www.verywellhealth.com/thmb/OqgFlM2ZWzgTRAxCX_iBpwkgkm0=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iStock_22401848_MEDIUM-58262cb63df78c6f6adebb27.jpg
+  completed: true
+
+- title: Denoising wearable ECGs. <br /> Prototyping an Armband
+  url: http://woochan-hwang.github.io/assets/Machine_Learning_based_Denoising_of_Electrocardiogram_Signals_from_a_Wearable_ECG_Monitor.pdf
+  image: https://user-images.githubusercontent.com/31177089/50563401-5c445580-0d14-11e9-9cc4-4f36df99fbdc.png
+  completed: true
+
+- title: Generative Models for Metadata Integration in Medical Image Segmentation
   url: http://taylantatli.me/Halve
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+  completed: true
 
-- title: Moon Jekyll Theme
+- title: Acute Stroke Management Optimization
   url: http://taylantatli.me/Moon
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: true
-
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
+  completed: false
 
 - title: Block Icon Theme
   url: https://github.com/TaylanTatli/Block-Icon-Theme
