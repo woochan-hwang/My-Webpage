@@ -1,29 +1,24 @@
-- title: ReST. <br /> Let radiologists take a rest from labeling
+- title: ReST - Reinforced Self Training <br /> Let radiologists take a rest from labeling
   url: https://arxiv.org/abs/1811.08840
-  image: https://www.verywellhealth.com/thmb/OqgFlM2ZWzgTRAxCX_iBpwkgkm0=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iStock_22401848_MEDIUM-58262cb63df78c6f6adebb27.jpg
+  image: https://user-images.githubusercontent.com/31177089/50563595-0ffa1500-0d16-11e9-8896-f54d72f427b6.jpg
   completed: true
 
-- title: Denoising wearable ECGs. <br /> Prototyping an Armband
+- title: Denoising wearable ECGs <br /> Prototyping an Armband
   url: http://woochan-hwang.github.io/assets/Machine_Learning_based_Denoising_of_Electrocardiogram_Signals_from_a_Wearable_ECG_Monitor.pdf
   image: https://user-images.githubusercontent.com/31177089/50563401-5c445580-0d14-11e9-9cc4-4f36df99fbdc.png
   completed: true
 
-- title: Generative Models for Metadata Integration in Medical Image Segmentation
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+- title: Metadata Integration <br /> in Medical Image <br /> Segmentation
+  url: http://woochan-hwang.github.io/
+  image: https://user-images.githubusercontent.com/31177089/50563717-2b195480-0d17-11e9-8c2c-478d0d564b8a.png
+  completed: false
+
+- title: Acute Stroke <br /> Management Optimization
+  url: http://woochan-hwang.github.io/
+  image: https://user-images.githubusercontent.com/31177089/50563761-a67b0600-0d17-11e9-8ab5-6e2fb469d52e.jpg
+  completed: false
+
+- title: Review Paper <br /> Deep Learning <br /> for Medical Imaging
+  url: https://www.synapse.koreamed.org/search.php?where=aview&id=10.7599/hmr.2017.37.2.61&code=0130HMR&vmode=FULL
+  image: https://user-images.githubusercontent.com/31177089/50564046-d0cdc300-0d19-11e9-8b44-b2c2b7862c6a.jpg
   completed: true
-
-- title: Acute Stroke Management Optimization
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: false
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
