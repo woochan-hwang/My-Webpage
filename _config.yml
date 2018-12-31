@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             woochan.hwang14@imperial.ac.uk
+email:             woochan.hwang14@imperial.ac.uk
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
 github:             woochan-hwang
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          username
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,10 +52,10 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
