@@ -1,0 +1,8 @@
+# Do not track these folders
+_site
+
+# Compiled source
+
+# Packages
+*.zip
+*.rar
