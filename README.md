@@ -1,6 +1,6 @@
 # My personal webpage
 
-Woochan Hwang's webpage (about, projects, blog posts).
+Woochan Hwang's [webpage](https://woochan-hwang.github.io) (about, projects, blog posts).
 Due to the use of jekyll plugins not supported by github, this repo contains only the site files after building jekyll locally.
 
 
