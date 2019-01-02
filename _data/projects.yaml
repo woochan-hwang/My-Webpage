@@ -8,17 +8,15 @@
   image: https://user-images.githubusercontent.com/31177089/50563401-5c445580-0d14-11e9-9cc4-4f36df99fbdc.png
   completed: true
 
-- title: Metadata Integration <br /> in Medical Image <br /> Segmentation
-  url: http://woochan-hwang.github.io/
-  image: https://user-images.githubusercontent.com/31177089/50563717-2b195480-0d17-11e9-8c2c-478d0d564b8a.png
-  completed: false
-
-- title: Acute Stroke <br /> Management Optimization
-  url: http://woochan-hwang.github.io/
-  image: https://user-images.githubusercontent.com/31177089/50563761-a67b0600-0d17-11e9-8ab5-6e2fb469d52e.jpg
-  completed: false
-
 - title: Review Paper <br /> Deep Learning <br /> for Medical Imaging
   url: https://www.synapse.koreamed.org/search.php?where=aview&id=10.7599/hmr.2017.37.2.61&code=0130HMR&vmode=FULL
   image: https://user-images.githubusercontent.com/31177089/50564046-d0cdc300-0d19-11e9-8b44-b2c2b7862c6a.jpg
   completed: true
+
+- title: Metadata Integration <br /> in Medical Image <br /> Segmentation
+  url: http://woochan-hwang.github.io/
+  completed: false
+
+- title: Acute Stroke <br /> Management Optimization
+  url: http://woochan-hwang.github.io/
+  completed: false
